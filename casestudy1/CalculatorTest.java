@@ -2,6 +2,7 @@ package com.caseStudy1.calculator;
 
 import java.util.Scanner;
 
+
 public class CalculatorTest {
 	public CalculatorTest() {
 		System.out.println("select an option  : \n 1. Arthmetic operations \n 2. Trignametic Functions");
