@@ -8,6 +8,7 @@ public class Employee {
 	int age;
 	double salary;
 
+	
 	public Employee(int empId, String firstName, String lastName, int age, double salary) {
 		this.empId = empId;
 		this.firstName = firstName;
